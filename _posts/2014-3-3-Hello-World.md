@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Žiga nima za burek!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Ne ti men, da sm ti dolžen sirov burek! Zanč sm js plaču oba mesna bureka, pa si reku, da je to isto, kukr da bi ti plaču sirnega..
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Kurac je met take prjatle, k od tebe hočjo mesni burek, zahtevajo pa vrnitev sirovega. [SIROV BUREK!](https://www.kulinarika.net/recepti/5076/sirove-jedi/sirov-burek/)

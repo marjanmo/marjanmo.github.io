@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Kaj, about me! A res hoćeš kej vedt o about me?
 
-### More Information
+### O meni
 
-A place to include any other types of information that you'd like to include about yourself.
+Rad imam burek. Sirov burek je kul.
 
-### Contact me
+### Piš mi kej.
 
-[email@domain.com](mailto:email@domain.com)
+[marjan.moderc@gov.si](mailto:marjan.moderc@gov.si)

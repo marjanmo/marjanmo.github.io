@@ -21,13 +21,13 @@ footer-links:
   email: marjan.moderc@gmail.com
   facebook: Marjan Moderc
   flickr:
-  github: https://github.com/marjanmo
+  github: marjanmo
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/marjan_moderc?lang=en
-  stackoverflow: http://stackoverflow.com/users/4614499/marjan-moderc
+  twitter: marjan_moderc
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
